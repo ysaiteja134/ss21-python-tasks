@@ -4,8 +4,7 @@
 
 ## Rules
 
-1. Use only commands, functions, datatypes from [Python Part 1](https://github.
-   com/HorizonIITM/summer-school-2021/tree/master/week-01/python) class.
+1. Use only commands, functions, datatypes from [Python Part 1](https://github.com/HorizonIITM/summer-school-2021/tree/master/week-01/python) class.
 2. You are free to use whatever resource to learn about the subject of task.
    Please avoid plagiarism - the task is for you to learn, not for us to evaluate
    you.
@@ -15,9 +14,9 @@
 
 ## Problem 1 - Lagrange Interpolation
 
-Lagrange interpolation is a [polynomial interpolation](https://en.wikipedia.org
-/wiki/Polynomial_interpolation) method which uses polynomials known as [Lagrange
-Polynomials](https://en.wikipedia.org/wiki/Lagrange_polynomial). This method
+Lagrange interpolation is a [polynomial
+interpolation](https://en.wikipedia.org/wiki/Polynomial_interpolation) method
+which uses polynomials known as [Lagrange Polynomials](https://en.wikipedia.org/wiki/Lagrange_polynomial). This method
 works on a set of **uniqe** points, and results in a polynomial with degree
 one less than the number of data points - which passess through all the data
 points.
