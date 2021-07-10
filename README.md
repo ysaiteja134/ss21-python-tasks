@@ -30,7 +30,11 @@ and returns the value of the interpolating polynomial at the given argument.
 lagrange_polynomial(datalist, xvalue)
 # datalist is a list of points, like [[1,2],[4,9],[13,27]] etc.
 # xvalue is value at which we need the interpolating polynomial to be evaluated.
-# example use case is:
+```
+
+An example workflow would be:
+
+```python
 yval = lagrange_polynomial([[8, 6], [1, 3], [3, 8]], 4)
 print(yval)
 ```
