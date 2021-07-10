@@ -110,3 +110,15 @@ Message: bobody
 Encrypted message: valyly
 Decrypted message: bobody
 ```
+
+## Submission procedure
+
+1. Fork this repository.
+2. Make a copy of `template.ipynb` inside `submissions` directory with your
+   roll number e.g. `ph19b003.ipynb` (in lowercase).
+3. Add responses (1 function in Problem 1, and 2 functions in Problem 2) in
+   the jupyter notebook you copied.
+4. Commit the changes, push to your account.
+5. Create a pull request with title format `rollnumber_name`. It should be in
+   all lowercase, and replace spaces in name with `-`.
+6. And that's it!
