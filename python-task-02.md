@@ -4,12 +4,12 @@
 
 ## Rules
 
-1. Use only commands, functions, datatypes from [Python Part 1](https://github.com/HorizonIITM/summer-school-2021/tree/master/week-01/python) class.
+1. Use only commands, functions, datatypes from [Python Part 2](https://github.com/HorizonIITM/summer-school-2021/tree/master/week-01/python/python-02.ipynb) class.
 2. You are free to use whatever resource to learn about the subject of task.
    Please avoid plagiarism - the task is for you to learn, not for us to evaluate
    you.
 3. Refrain from using pre-existing libraries/functions/other structures. Both
-   problems are completely doable using the content for Python Part 1 class.
+   problems are completely doable using the content for Python Part 2 class.
 
 ## Conway's Game of Life
 
