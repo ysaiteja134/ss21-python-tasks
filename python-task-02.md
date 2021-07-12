@@ -101,7 +101,8 @@ plt.imshow(iter_array, cmap='binary', alpha=0.9)
 plt.box(False)
 plt.axis('off')
 # saving the plot in python-02/img/
-plt.savefig('path/to/img/folder/rollnumber.png')
+# the other two parameters are to strip away unnecessary space around the image
+plt.savefig('path/to/rollnumber.png', bbox_inches='tight',pad_inches = 0)
 ```
 
 An example visualisation `example.png` (using a different initial array) is
