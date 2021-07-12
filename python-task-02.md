@@ -1,6 +1,6 @@
 # Task for Python Day 2
 
-### Deadline: 13/07/2021 04:00 PM
+### Deadline: 13/07/2021 06:00 PM
 
 ## Rules
 
